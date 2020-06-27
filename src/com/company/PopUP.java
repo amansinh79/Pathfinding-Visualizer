@@ -24,7 +24,7 @@ public class PopUP{
         }
         label = new JLabel(string,JLabel.CENTER);
         label.setFont(font);
-        f.setSize(200,100);
+        f.setSize(250,100);
         f.setBackground(Color.DARK_GRAY);
         f.add(label, JLabel.CENTER);
         f.setTitle("Result");
